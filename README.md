@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Crystal McEnhimer, and I'm an undergraduate student in the University of Virginia's School of Data Science.
+
 <!--
 **vcx4ka/vcx4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
